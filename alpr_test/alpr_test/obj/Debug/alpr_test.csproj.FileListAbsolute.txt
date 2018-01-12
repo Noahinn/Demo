@@ -1,0 +1,2 @@
+C:\Users\BNS\Documents\Visual Studio 2015\Projects\alpr_test\alpr_test\bin\Debug\openalpr-net.dll
+D:\Visual Studio Projects\alpr_test\alpr_test\bin\Debug\alpr_test.exe.config

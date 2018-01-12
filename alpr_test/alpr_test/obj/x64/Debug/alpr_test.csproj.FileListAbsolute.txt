@@ -1,0 +1,9 @@
+C:\Users\BNS\Documents\Visual Studio 2015\Projects\alpr_test\alpr_test\bin\x64\Debug\alpr_test.exe.config
+C:\Users\BNS\Documents\Visual Studio 2015\Projects\alpr_test\alpr_test\bin\x64\Debug\alpr_test.exe
+C:\Users\BNS\Documents\Visual Studio 2015\Projects\alpr_test\alpr_test\bin\x64\Debug\alpr_test.pdb
+C:\Users\BNS\Documents\Visual Studio 2015\Projects\alpr_test\alpr_test\bin\x64\Debug\openalpr-net.dll
+C:\Users\BNS\Documents\Visual Studio 2015\Projects\alpr_test\alpr_test\obj\x64\Debug\openalprnet_windemo.Form1.resources
+C:\Users\BNS\Documents\Visual Studio 2015\Projects\alpr_test\alpr_test\obj\x64\Debug\alpr_test.Properties.Resources.resources
+C:\Users\BNS\Documents\Visual Studio 2015\Projects\alpr_test\alpr_test\obj\x64\Debug\alpr_test.csproj.GenerateResource.Cache
+C:\Users\BNS\Documents\Visual Studio 2015\Projects\alpr_test\alpr_test\obj\x64\Debug\alpr_test.exe
+C:\Users\BNS\Documents\Visual Studio 2015\Projects\alpr_test\alpr_test\obj\x64\Debug\alpr_test.pdb

@@ -1,0 +1,9 @@
+D:\Visual Studio Projects\alpr_test\alpr_test\bin\Debug\alpr_test.exe.config
+D:\Visual Studio Projects\alpr_test\alpr_test\bin\Debug\alpr_test.exe
+D:\Visual Studio Projects\alpr_test\alpr_test\bin\Debug\alpr_test.pdb
+D:\Visual Studio Projects\alpr_test\alpr_test\bin\Debug\openalpr-net.dll
+D:\Visual Studio Projects\alpr_test\alpr_test\obj\Debug\openalprnet_windemo.Form1.resources
+D:\Visual Studio Projects\alpr_test\alpr_test\obj\Debug\alpr_test.Properties.Resources.resources
+D:\Visual Studio Projects\alpr_test\alpr_test\obj\Debug\Number_Plate.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\alpr_test\alpr_test\obj\Debug\alpr_test.exe
+D:\Visual Studio Projects\alpr_test\alpr_test\obj\Debug\alpr_test.pdb
